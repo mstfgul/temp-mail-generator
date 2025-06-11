@@ -1,7 +1,7 @@
 import requests
 
 # Paste the previously obtained token here
-TOKEN = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpYXQiOjE3NDk2Mzc1NjQsInJvbGVzIjpbIlJPTEVfVVNFUiJdLCJhZGRyZXNzIjoicDE3YnZiNDFuNEBwdW5rcHJvb2YuY29tIiwiaWQiOiI2ODQ5NTliYzA1NjY4NTExOWIwOWQ0NjQiLCJtZXJjdXJlIjp7InN1YnNjcmliZSI6WyIvYWNjb3VudHMvNjg0OTU5YmMwNTY2ODUxMTliMDlkNDY0Il19fQ.H0woJGCEA_fFHownVnOlkcDXpHG2AWbZYKRk2e4qScaS_C6QRlKW7XItNms1dvfDxsbosmDRWdVyfUiI3_C0Og" # noqa
+TOKEN = "" # noqa
 
 
 HEADERS = {
